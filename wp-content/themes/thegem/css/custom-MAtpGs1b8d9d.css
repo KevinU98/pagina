@@ -16,7 +16,7 @@
 }
 
 
-@media (min-width: 768px) and (max-width: 979px) {
+@media (min-width: 768px) and (max-width: 1135px) {
 	#site-header .header-main {
 		position: relative;
 		display: table;
